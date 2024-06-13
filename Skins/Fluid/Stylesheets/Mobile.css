@@ -68,7 +68,7 @@
 	.central-dropdown
 	{
 		left: auto;
-		right: 35px;
+		right: auto;
 	}
 
 	.central-dropdown .central-account-drop
@@ -95,7 +95,7 @@
 	.central-dropdown-content
 	{
 		left: auto;
-		right: -25px;
+		right: auto;
 		background-color: var(--Lightest);
 	}
 
@@ -831,9 +831,9 @@
 
 	nav.title-bar .menu-icon
 	{
-		display: block;
+		display: none;
 		left: auto;
-		right: -13px;
+		right: auto;
 	}
 
 	.search-auto-complete ul
