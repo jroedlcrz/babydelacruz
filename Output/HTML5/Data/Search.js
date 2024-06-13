@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/guesses.htm'],s:['$20'],p:[['$20',0]]});

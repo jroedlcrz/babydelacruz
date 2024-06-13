@@ -1,0 +1,1 @@
+define({"0":{y:0,u:"../Content/home.htm",l:-1,t:"WELCOME!",i:0.350877198494627,a:"WELCOME! - CLICK HERE TO SEE THE PICKS -   PLEASE SEND $20 TO JOHN: Venmo: @sarkasticmynd Cashapp: $sarkyTV Zelle/Apple Pay: 619-513-4195"},"1":{y:0,u:"../Content/guesses.htm",l:-1,t:"guesses",i:0.649122801505373,a:"  Current pot: $360"},});
